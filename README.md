@@ -11,11 +11,17 @@ Parkinson hastalığı, merkezi sinir sistemini etkileyen ve genellikle titreme,
 Veri seti, çeşitli ses özelliklerini içeren 23 öznitelikten oluşmaktadır. En önemli sütunlardan bazıları şunlardır:
 
 MDVP:Fo(Hz): Ortalama temel ses frekansı
+
 MDVP:Fhi(Hz): Maksimum temel ses frekansı
+
 MDVP:Flo(Hz): Minimum temel ses frekansı
+
 Jitter ve Shimmer ölçümleri: Ses frekansındaki ve genliğindeki değişimleri gösterir
+
 HNR, NHR: Sesin tonal ve gürültü bileşenleri arasındaki oranlar
+
 RPDE, D2, DFA, PPE: Sesin doğrusal olmayan karmaşıklık ölçümleri
+
 Status: Parkinson hastalığı teşhisi (0: Sağlıklı, 1: Parkinson hastası)
 
 # Bu proje Parkinson hastalığını tespit etmeye yönelik analizler ve makine öğrenimi uygulamaları geliştirmek için doğrudan kullanılabilir.
